@@ -2298,3 +2298,9 @@ public class Course {
 - [ ] Compilation Error
 - [ ] Runtime Error
 	
+#### Q163. byte stores 
+	
+ - [ ] char data type
+ - [x] short integer
+ - [ ] long integer
+ - [ ] boolean
